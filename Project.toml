@@ -1,0 +1,5 @@
+[deps]
+Bonito = "824d6782-a2ef-11e9-3a09-e5662e0c26f8"
+Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
+JSServe = "824d6782-a2ef-11e9-3a09-e5662e0c26f9"
+NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
