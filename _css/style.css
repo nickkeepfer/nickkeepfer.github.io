@@ -316,3 +316,44 @@ li > p {
   .card-columns {
     column-count: 4;
   }
+
+.bd-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-image: url('/assets/logo.png');
+background-size: cover;
+  margin: 20px;
+border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
+
+
+.bd-img2 {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-image: url('/assets/nicefig.png');
+  background-size: cover;
+  margin: 20px;
+border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+.bd-img3 {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-image: url('/assets/bucket.png');
+  background-size: cover;
+  margin: 20px;
+border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
