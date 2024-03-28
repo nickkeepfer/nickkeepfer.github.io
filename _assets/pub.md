@@ -5,4 +5,5 @@ nocite: |
  @keepfer2022phase,
  @keepfer2020spin,
  @flynn2024harmonically,
+ @atoufi2024proceedings,
 ...
